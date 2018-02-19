@@ -26,12 +26,8 @@ public class ClickToSendAIToLocation : MonoBehaviour {
                 {
                     controlledAI.Seek(hitInfo.point);
                 }
-
             }
-        }
-		
+        }	
 	}
-
-
 
 }
